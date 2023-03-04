@@ -6,7 +6,7 @@ This project is focused on implementing a resource-efficient boosting algorithm 
 
 If you use this repository for academic research, you are highly encouraged (though not required) to cite the following paper:
 
-@inproceedings{zakariyya2021resource,--
+@inproceedings{zakariyya2021resource, <br />
   title={Resource efficient boosting method for IoT security monitoring},--
   author={Zakariyya, Idris and Al-Kadri, M Omar and Kalutarage, Harsha},--
   booktitle={2021 IEEE 18th Annual Consumer Communications \& Networking Conference (CCNC)},--
