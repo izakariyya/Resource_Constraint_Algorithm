@@ -4,7 +4,7 @@ This project is focused on implementing a resource-efficient boosting algorithm 
 
 <ins>**Citing this work**</ins>
 
-If you use this repository for academic research, you are highly encouraged (though not required) to cite the following paper:
+If you use this repository for academic research, you are highly encouraged to cite the following paper:
 
 @inproceedings{zakariyya2021resource, <br />
   title={Resource efficient boosting method for IoT security monitoring}, <br />
